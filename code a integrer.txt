@@ -927,11 +927,10 @@
                   // Set the end time to 4pm
                   const endTime = new Date();
                   endTime.setHours({{ block.settings.cut_off_time }}, 0, 0);
-                  
+
                   // Update the countdown every second
                   setInterval(updateCountdown, 1000);
-                  BADGE LIVRAISON
-
+                  </script>
 
 <!-- 💎 Prix + Badge Livraison -->
 <div style="margin-bottom: 16px;">
